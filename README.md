@@ -1,5 +1,7 @@
 # MegaGeoCOV
 
+Update: We're released an extended version of this dataset: MegaGeoCOV Extended. Access the extended version from here: https://ieee-dataport.org/open-access/megageocov-extended
+
 *MegaGeoCOV* is introduced in the paper "**[Twitter conversations predict the daily confirmed COVID-19 cases](https://doi.org/10.1016/j.asoc.2022.109603)**". The dataset contains over 21 million geotagged conversations specific to the COVID-19 pandemic. We used Twitter's Academic Track-based Full-archive search endpoint for curating this dataset. As per Twitter's content re-distribution policy, we are only sharing the tweet identifiers; the identifiers need to be [hydrated](https://theneuralblog.com/hydrating-tweet-ids) to recreate the dataset locally. Hydration can be easily done with tools such as Hydrator and twarc.
 
 ### Dataset usage terms
